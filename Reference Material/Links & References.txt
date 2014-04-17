@@ -1,0 +1,23 @@
+SENSOR TUTORIALS
+
+1. Pulse Sensor (Changes for Arduino Micro & Code walk through) http://pulsesensor.myshopify.com/pages/pulse-sensor-amped-arduino-v1dot1
+a. Video: http://vimeo.com/58657081
+2. Accelerometer: http://learn.adafruit.com/adxl345-digital-accelerometer
+3. Temperature: http://bildr.org/2011/01/tmp102-arduino/
+
+DISPLAY TUTORIALS
+1. Sharp Memory Display http://learn.adafruit.com/adafruit-sharp-memory-display-breakout
+
+ARDUINO
+1. Reference to Arduino commands (Reference slides were made from here) http://arduino.cc/en/Reference/HomePage
+2. Arduino Micro Specs http://arduino.cc/en/Main/ArduinoBoardMicro
+
+
+BEST RESOURCES FOR FUTURE EXPERIMENTS:
+1. http://arduino.cc
+2. http://learn.adafruit.com
+3. https://learn.sparkfun.com
+4. http://bildr.org
+
+
+
