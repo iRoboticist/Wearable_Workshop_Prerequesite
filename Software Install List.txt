@@ -1,1 +1,26 @@
-iRoboticist’s Wearable Workshop Software & Libraries Install List * Arduino IDE 1.0.5 http://arduino.cc/en/Main/Software* Drivers for Windows: We will be using Arduino Micro for the class. So please make sure you follow the Instructions on this page to download appropriate drivers (Mac & Linux do not require any drivers) http://arduino.cc/en/Guide/ArduinoLeonardoMicro?from=Guide.ArduinoLeonardo* Arduino Libraries: (Use the Guide : How to Install Library http://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use)o Adafruit* Sensor (https://github.com/adafruit/Adafruit_Sensor)* GFX Library (https://github.com/adafruit/Adafruit-GFX-Library)* ADXL345 (https://github.com/adafruit/Adafruit_ADXL345)* SHARP Memory Display (https://github.com/adafruit/Adafruit_SHARP_Memory_Display)o Time Library – Time.h (http://www.pjrc.com/teensy/arduino_libraries/Time.zip)o Pulse Sensor Amped (https://pulse-sensor.googlecode.com/files/PulseSensorAmped_Arduino_1dot2.zip)* Fritzing (http://fritzing.org/download)o Adafruit Fritzing Library (https://github.com/adafruit/Fritzing-Library)
+iRoboticist's Wearable Workshop Software & Libraries Install List 
+http://workshop.iroboticist.com/wearable-devices/
+
+* Arduino IDE 1.0.5 http://arduino.cc/en/Main/Software
+
+* Drivers for Windows: We will be using Arduino Micro for the class. 
+So please make sure you follow the Instructions on this page to download appropriate drivers 
+http://arduino.cc/en/Guide/ArduinoLeonardoMicro?from=Guide.ArduinoLeonardo
+(Mac & Linux do not require any drivers) 
+______________________________________________________________________________________________________
+* Arduino Libraries: 
+(Use the Guide : How to Install Library 
+http://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use)
+
+o Adafruit
+* Sensor (https://github.com/adafruit/Adafruit_Sensor)
+* GFX Library (https://github.com/adafruit/Adafruit-GFX-Library)
+* ADXL345 (https://github.com/adafruit/Adafruit_ADXL345)
+* SHARP Memory Display (https://github.com/adafruit/Adafruit_SHARP_Memory_Display)
+
+o Time Library - Time.h (http://www.pjrc.com/teensy/arduino_libraries/Time.zip)
+o Pulse Sensor Amped (https://pulse-sensor.googlecode.com/files/PulseSensorAmped_Arduino_1dot2.zip)
+______________________________________________________________________________________________________
+* Fritzing (http://fritzing.org/download)
+o Adafruit Fritzing Library 
+(https://github.com/adafruit/Fritzing-Library)
